@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "Northern Virginia",
+        "Continent" : "Americas",
+        "Id": "us-east-1"
+    },
+    {
+        "Name": "Ohio",
+        "Continent" : "Americas",
+        "Id": "us-east-2"
+    },
+    {
+        "Name": "Oregon",
+        "Continent" : "Americas",
+        "Id": "us-west-2"
+    },
+    {
+        "Name": "Northern California",
+        "Continent" : "Americas",
+        "Id": "us-west-1"
+    },
+    {
+        "Name": "Montreal",
+        "Continent" : "Americas",
+        "Id": "ca-central-1"
+    },
+    {
+        "Name": "São Paulo",
+        "Continent" : "Americas",
+        "Id": "sa-east-1"
+    },
+    {
+        "Name": "GovCloud (US-West)",
+        "Continent" : "Americas",
+        "Id": "gov-us-west"
+    },
+    {
+        "Name": "GovCloud (US-East)",
+        "Continent" : "Americas",
+        "Id": "gov-us-east"
+    },
+    {
+        "Name": "Ireland",
+        "Continent" : "EMEA",
+        "Id": "eu-west-1"
+    },
+    {
+        "Name": "Frankfurt",
+        "Continent" : "EMEA",
+        "Id": "eu-central-1"
+    },
+    {
+        "Name": "London",
+        "Continent" : "EMEA",
+        "Id": "eu-west-2"
+    },
+    {
+        "Name": "Paris",
+        "Continent" : "EMEA",
+        "Id": "eu-west-3"
+    },
+    {
+        "Name": "Stockholm",
+        "Continent" : "EMEA",
+        "Id": "eu-north-1"
+    },
+    {
+        "Name": "Singapore",
+        "Continent" : "APAC",
+        "Id": "ap-southeast-1"
+    },
+    {
+        "Name": "Tokyo",
+        "Continent" : "APAC",
+        "Id": "ap-northeast-1"
+    },
+    {
+        "Name": "Osaka",
+        "Continent" : "APAC",
+        "Id": "ap-northeast-3"
+    },
+    {
+        "Name": "Sydney",
+        "Continent" : "APAC",
+        "Id": "ap-southeast-2"
+    },
+    {
+        "Name": "Seoul",
+        "Continent" : "APAC",
+        "Id": "ap-northeast-2"
+    },
+    {
+        "Name": "Hong Kong",
+        "Continent" : "APAC",
+        "Id": "ap-east-1"
+    },
+    {
+        "Name": "Mumbai",
+        "Continent" : "APAC",
+        "Id": "ap-south-1"
+    },
+    {
+        "Name": "Beijing",
+        "Continent" : "APAC",
+        "Id": "cn-north-1"
+    },
+    {
+        "Name": "Ningxia",
+        "Continent" : "APAC",
+        "Id": "cn-northwest-1"
+    }
+]
